@@ -1,0 +1,16 @@
+{
+    "hats": [
+        {
+            "adaptive": true
+            "author": "Krawie",
+            "backresource": "papo_back.png"
+            "bounce": false,
+            "condition": "None",
+            "name": "Flötenmann",
+            "package": "Community Hats",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
+            "resource": "papo_adaptive.png"
+        }
+    ]
+}
