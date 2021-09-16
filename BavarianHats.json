@@ -3,7 +3,6 @@
         {
             "adaptive": true,
             "author": "Krawie",
-            "backresource": "papo_back.png",
             "condition": "None",
             "name": "Flötenmann",
             "package": "Community Hats",
