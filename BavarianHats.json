@@ -11,7 +11,7 @@
     {
       "author": "Krawie",
       "condition": "None",
-      "backresource": "vlesk_back.png"
+      "backresource": "vlesk_back.png",
       "name": "Pink Imposter",
       "package": "Streamer",
       "resource": "vlesk.png"
