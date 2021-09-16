@@ -1,1 +1,20 @@
-{}
+{
+  "hats": [
+    {
+      "adaptive": true,
+      "author": "Krawie",
+      "condition": "None",
+      "name": "Flötenmann",
+      "package": "Streamer",
+      "resource": "papo_adaptive.png"
+    }
+    {
+      "author": "Krawie",
+      "condition": "None",
+      "backresource": "vlesk_back.png"
+      "name": "Pink Imposter",
+      "package": "Streamer",
+      "resource": "vlesk.png"
+    }
+  ]
+}
